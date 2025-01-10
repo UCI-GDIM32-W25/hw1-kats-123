@@ -4,6 +4,19 @@
 
 Put your notes from the W1L2 (Thurs, Jan 9) in-class activity here.
 
+- Objects
+    -   UI
+        - Shows amount of seeds planted
+        - Shows amount of seeds remaining
+    - Bunny (Player)
+        - Movement (WASD)
+        - Space (Plants Seeds)
+        - Can plant up to 5 seeds
+    - Seeds
+        - Appears on screen from player’s action
+        - Limited amount (5 seeds per playthrough)
+
+
 ## Devlog
 Prompt: Include the HW1 break-down exercise you wrote during the Week 1 - Lecture 2 (Jan 9) in-class activity (above). If you did not attend and perform this activity, review the lecture slides and write your own plan for how you believe HW1 should be built. If your initially proposed plan turned out significantly different than the activity answers given by Prof Reid, you may want to note what was different. Then, write about how the plan you wrote in the break-down connects to the code you wrote. Cite specific class names and method names in the code and GameObjects in your Unity Scene.
 
